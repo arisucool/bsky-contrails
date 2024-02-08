@@ -15,7 +15,8 @@ arisu-posts
 
 > This is the description of the feed.
 
-(テスト運用中)
+こちらは廃止予定です。新しいフィード・タチバナをご利用ください:
+https://staging.bsky.app/profile/news.arisu.cool/feed/aaaitng32t4jk
 
 # searchTerms
 
