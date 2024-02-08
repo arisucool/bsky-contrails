@@ -9,15 +9,13 @@ arisu-posts
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-フィード・タチバナ
+フィード・タチバナ (旧)
 
 # description
 
 > This is the description of the feed.
 
-アイドルマスターシンデレラガールズ/U149のアイドル「橘ありす」に関する主な投稿を検索するフィードです 🍓
-
-(テスト運用中につき、取りこぼしも多いと思いますが、ご了承ください)
+(テスト運用中)
 
 # searchTerms
 
