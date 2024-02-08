@@ -26,11 +26,11 @@ arisu-posts
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- 橘ありす
-- u149 ありす
-- デレマス ありす
-- シンデレラガールズ ありす
-- imas_cg ありす
+- "橘ありす"
+- "u149" "ありす"
+- "デレマス" "ありす"
+- "シンデレラガールズ" "ありす"
+- "imas_cg" "ありす"
 - https://bsky.app/profile/news.arisu.cool +reposts
 
 # denyList
